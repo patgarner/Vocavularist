@@ -116,7 +116,7 @@ NSArray * currentLesson;
 		@[@"бы", @"would"],
 		@[@"такой", @"such, so, some"],
 		@[@"только", @"only, merely, but"],
-		@[@"себя", @"myself, himself, herself", @"pron"],
+		@[@"себя", @"myself, himself, herself"],
 		@[@"своё", @"my, our"],
 		@[@"какой", @"what, which, how"],
 		@[@"когда", @"when, while, as"],
